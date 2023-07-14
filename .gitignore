@@ -1,0 +1,11 @@
+.DS_Store
+*.icloud
+.DS_Store
+*.txt
+*.csv
+*.jsonl
+*.json
+*.yaml
+*.wandb
+*.log
+*.zip
